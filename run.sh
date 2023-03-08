@@ -1,1 +1,1 @@
-PYTHONPATH=. python demo/image_demo.py example_input2.png configs/fashionformer/fashionpedia/fashionformer_r50_mlvl_feat_3x.py fashionformer_r50_3x.pth
+PYTHONPATH=. python demo/image_demo.py 0256_0000_0000_0000_0000_0009.jpg  configs/fashionformer/fashionpedia/fashionformer_r50_mlvl_feat_3x.py fashionformer_r50_3x.pth
